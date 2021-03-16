@@ -1,11 +1,9 @@
 numpy
 pandas
-tensorflow
 Flask
 gunicorn
 itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
-scipy
 keras
