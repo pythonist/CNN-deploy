@@ -1,6 +1,7 @@
 numpy
 pandas
 Flask
+tensorflow
 gunicorn
 itsdangerous
 Jinja2
