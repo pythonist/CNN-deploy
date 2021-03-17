@@ -3,12 +3,12 @@ from __future__ import division, print_function
 import sys
 import os
 import glob
-import re
+#import re
 #import numpy as np
 import tensorflow as tf
 
 # Keras
-from keras.applications.imagenet_utils import preprocess_input, decode_predictions
+#from keras.applications.imagenet_utils import preprocess_input, decode_predictions
 from tensorflow.keras.models import Model , load_model
 from keras.preprocessing import image
 
