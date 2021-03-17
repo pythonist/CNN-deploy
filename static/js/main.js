@@ -45,7 +45,7 @@ $(document).ready(function () {
                 // Get and display the result
                 $('.loader').hide();
                 $('#result').fadeIn(600);
-                $('#result').text(' Genre:' + data);
+                $('#result').text('Hmm...This movie is of this type😉:' + data);
                 console.log('Success!');
             },
         });
