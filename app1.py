@@ -22,7 +22,7 @@ app = Flask(__name__,template_folder='templates')
 
 
 #loading the model
-Model = load_model('E:/MODEL/MMmodel.h5')         # Necessary
+Model = load_model('MMmodel.h5')         # Necessary
 #print('Model loaded. Starting service...')
 
 #defining the classes to predict
